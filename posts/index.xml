@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Site do Gordo</title>
+    <link>https://gordo.github.io/posts/</link>
+    <description>Recent content in Posts on Site do Gordo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Wed, 07 Feb 2024 11:31:41 +0000</lastBuildDate><atom:link href="https://gordo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gordao</title>
+      <link>https://gordo.github.io/posts/gordao/</link>
+      <pubDate>Wed, 07 Feb 2024 11:31:41 +0000</pubDate>
+      
+      <guid>https://gordo.github.io/posts/gordao/</guid>
+      <description>ola bom dia</description>
+    </item>
+    
+  </channel>
+</rss>
